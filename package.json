@@ -1,0 +1,11 @@
+{
+  "name": "inheritance",
+  "version": "1.0.0",
+  "description": "Difference types of inheritance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anastasiia Sokolova",
+  "license": "ISC"
+}
